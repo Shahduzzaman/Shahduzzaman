@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a passionate Computer Science and Engineering
 
 •	Languages: Python, Java, C++, JavaScript, PHP, HTML, CSS
 
-•	Tools & Frameworks: Raspberry Pi, OpenCV, IoT, Arduino, APIs
+•	Tools : Raspberry Pi, OpenCV, IoT, Arduino, APIs
 
 •	Expertise: Full-Stack Development, IoT, Real-Time Software Systems, Machine Learning Integration, Project Design & Prototyping
 
