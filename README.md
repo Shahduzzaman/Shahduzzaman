@@ -61,7 +61,3 @@
   🔧 Working on <b>small electronics projects</b> <br/>
   🌍 Following <b>current affairs</b> and their relevance
 </p>
-
-<p align="center">
-  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=mdshahduzzaman.mdshahduzzaman)
-</p>
