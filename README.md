@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am a passionate Computer Science and Engineering
 
 🔧 Technologies & Skills
 
-•	Languages: Python, Java, C++, JavaScript, PHP, HTML, CSS
+•	Languages: Python, Java, C++, JavaScript, PHP, SQL, HTML, CSS
 
 •	Expertise: Full-Stack Development, IoT, Real-Time Software Systems, Machine Learning Integration, Project Design & Prototyping
 
